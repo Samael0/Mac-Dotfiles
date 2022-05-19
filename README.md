@@ -15,6 +15,7 @@
   - Brew
     - Git
     - Fish Shell
+      - Fisher
     - Alfred
       - Settings File
       - Transparent Dark
